@@ -1,0 +1,24 @@
+{
+  "name": "junren.zhou/thinkphp-log-viewer",
+  "description": "Log Visualization Management",
+  "type": "thinkphp-extension",
+  "require": {
+    "topthink/framework": "5.1.*"
+  },
+  "license": "mit",
+  "authors": [
+    {
+      "name": "junrenzhou",
+      "email": "1051447847@qq.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "logViewer\\": "src/lib"
+    },
+    "files": [
+      "src/functions"
+    ]
+    }
+  }
