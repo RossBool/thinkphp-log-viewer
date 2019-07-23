@@ -1,7 +1,7 @@
 <?php
 
 
-namespace logViewer;
+namespace ZJR;
 
 
 class Logger
